@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BewsgxG9oMvu27Btu5Tqbko4fjAzFmA2KZ3AOgn43RN7gQnffFbhD0qT7KJp0Vc20JafgnMe2Lf4AkSyJtso8g==",
+  "dgSpecHash": "bxFxD4j4WAwQ2U2RdTH7YX5FTE00S89bZBvI12vWA0fNFqK5j8BpCgeDOabeiWzCWpkKiK3YLzHHExL+4KwVYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iagol\\source\\repos\\AprendendoCSharp\\Fatorial\\Fatorial.csproj",
+  "projectFilePath": "C:\\Users\\iagol\\Source\\Repos\\csharp-estudos\\AprendendoCSharp\\Fatorial\\Fatorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

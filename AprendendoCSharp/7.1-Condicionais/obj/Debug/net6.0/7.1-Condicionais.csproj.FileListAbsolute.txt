@@ -1,0 +1,15 @@
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\bin\Debug\net6.0\7.1-Condicionais.exe
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\bin\Debug\net6.0\7.1-Condicionais.deps.json
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\bin\Debug\net6.0\7.1-Condicionais.runtimeconfig.json
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\bin\Debug\net6.0\7.1-Condicionais.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\bin\Debug\net6.0\7.1-Condicionais.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\7.1-Condicionais.csproj.AssemblyReference.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\7.1-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\7.1-Condicionais.AssemblyInfoInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\7.1-Condicionais.AssemblyInfo.cs
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\7.1-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\7.1-Condicionais.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\refint\7.1-Condicionais.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\7.1-Condicionais.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\7.1-Condicionais.genruntimeconfig.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\7.1-Condicionais\obj\Debug\net6.0\ref\7.1-Condicionais.dll

@@ -1,0 +1,15 @@
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.exe
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.deps.json
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.runtimeconfig.json
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\refint\P10-CalculaPoupanca.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.genruntimeconfig.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\ref\P10-CalculaPoupanca.dll

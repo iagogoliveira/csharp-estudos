@@ -1,0 +1,15 @@
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\bin\Debug\net6.0\Multiplos3.exe
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\bin\Debug\net6.0\Multiplos3.deps.json
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\bin\Debug\net6.0\Multiplos3.runtimeconfig.json
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\bin\Debug\net6.0\Multiplos3.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\bin\Debug\net6.0\Multiplos3.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\Multiplos3.csproj.AssemblyReference.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\Multiplos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\Multiplos3.AssemblyInfoInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\Multiplos3.AssemblyInfo.cs
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\Multiplos3.csproj.CoreCompileInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\Multiplos3.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\refint\Multiplos3.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\Multiplos3.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\Multiplos3.genruntimeconfig.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\Multiplos3\obj\Debug\net6.0\ref\Multiplos3.dll

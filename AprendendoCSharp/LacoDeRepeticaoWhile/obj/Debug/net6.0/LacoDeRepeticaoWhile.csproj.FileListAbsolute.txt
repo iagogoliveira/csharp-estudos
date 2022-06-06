@@ -1,0 +1,15 @@
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net6.0\LacoDeRepeticaoWhile.exe
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net6.0\LacoDeRepeticaoWhile.deps.json
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net6.0\LacoDeRepeticaoWhile.runtimeconfig.json
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net6.0\LacoDeRepeticaoWhile.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\net6.0\LacoDeRepeticaoWhile.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\LacoDeRepeticaoWhile.csproj.AssemblyReference.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\LacoDeRepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\LacoDeRepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\LacoDeRepeticaoWhile.AssemblyInfo.cs
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\LacoDeRepeticaoWhile.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\refint\LacoDeRepeticaoWhile.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\LacoDeRepeticaoWhile.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\LacoDeRepeticaoWhile.genruntimeconfig.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\net6.0\ref\LacoDeRepeticaoWhile.dll

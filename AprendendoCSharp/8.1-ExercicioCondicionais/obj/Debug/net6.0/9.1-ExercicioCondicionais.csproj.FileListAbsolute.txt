@@ -1,0 +1,15 @@
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\bin\Debug\net6.0\9.1-ExercicioCondicionais.exe
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\bin\Debug\net6.0\9.1-ExercicioCondicionais.deps.json
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\bin\Debug\net6.0\9.1-ExercicioCondicionais.runtimeconfig.json
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\bin\Debug\net6.0\9.1-ExercicioCondicionais.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\bin\Debug\net6.0\9.1-ExercicioCondicionais.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\9.1-ExercicioCondicionais.csproj.AssemblyReference.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\9.1-ExercicioCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\9.1-ExercicioCondicionais.AssemblyInfoInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\9.1-ExercicioCondicionais.AssemblyInfo.cs
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\9.1-ExercicioCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\9.1-ExercicioCondicionais.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\refint\9.1-ExercicioCondicionais.dll
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\9.1-ExercicioCondicionais.pdb
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\9.1-ExercicioCondicionais.genruntimeconfig.cache
+C:\Users\iagol\source\repos\AprendendoCSharp\8.1-ExercicioCondicionais\obj\Debug\net6.0\ref\9.1-ExercicioCondicionais.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iagol\\source\\repos\\AprendendoCSharp\\LacoDeRepeticaoWhile\\LacoDeRepeticaoWhile.csproj",
+      "projectUniqueName": "C:\\Users\\iagol\\Source\\Repos\\csharp-estudos\\AprendendoCSharp\\LacoDeRepeticaoWhile\\LacoDeRepeticaoWhile.csproj",
       "projectName": "LacoDeRepeticaoWhile",
-      "projectPath": "C:\\Users\\iagol\\source\\repos\\AprendendoCSharp\\LacoDeRepeticaoWhile\\LacoDeRepeticaoWhile.csproj",
+      "projectPath": "C:\\Users\\iagol\\Source\\Repos\\csharp-estudos\\AprendendoCSharp\\LacoDeRepeticaoWhile\\LacoDeRepeticaoWhile.csproj",
       "packagesPath": "C:\\Users\\iagol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iagol\\source\\repos\\AprendendoCSharp\\LacoDeRepeticaoWhile\\obj\\",
+      "outputPath": "C:\\Users\\iagol\\Source\\Repos\\csharp-estudos\\AprendendoCSharp\\LacoDeRepeticaoWhile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iagol\\AppData\\Roaming\\NuGet\\NuGet.Config",

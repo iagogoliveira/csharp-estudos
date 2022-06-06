@@ -16,7 +16,6 @@ namespace _07_ByteBank
             ContaCorrente contaDaGabriela = new ContaCorrente(867, 8674589);
 
             Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
-
             Console.ReadLine();
 
         }

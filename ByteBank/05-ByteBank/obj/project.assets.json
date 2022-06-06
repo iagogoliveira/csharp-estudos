@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iagol\\source\\repos\\ByteBank\\05-ByteBank\\05-ByteBank.csproj",
+      "projectUniqueName": "C:\\Users\\iagol\\source\\repos\\csharp-estudos\\ByteBank\\05-ByteBank\\05-ByteBank.csproj",
       "projectName": "05-ByteBank",
-      "projectPath": "C:\\Users\\iagol\\source\\repos\\ByteBank\\05-ByteBank\\05-ByteBank.csproj",
+      "projectPath": "C:\\Users\\iagol\\source\\repos\\csharp-estudos\\ByteBank\\05-ByteBank\\05-ByteBank.csproj",
       "packagesPath": "C:\\Users\\iagol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iagol\\source\\repos\\ByteBank\\05-ByteBank\\obj\\",
+      "outputPath": "C:\\Users\\iagol\\source\\repos\\csharp-estudos\\ByteBank\\05-ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iagol\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\bin\Debug\net6.0\BancoProj.exe
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\bin\Debug\net6.0\BancoProj.deps.json
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\bin\Debug\net6.0\BancoProj.runtimeconfig.json
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\bin\Debug\net6.0\BancoProj.dll
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\bin\Debug\net6.0\BancoProj.pdb
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\BancoProj.csproj.AssemblyReference.cache
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\BancoProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\BancoProj.AssemblyInfoInputs.cache
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\BancoProj.AssemblyInfo.cs
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\BancoProj.csproj.CoreCompileInputs.cache
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\BancoProj.dll
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\refint\BancoProj.dll
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\BancoProj.pdb
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\BancoProj.genruntimeconfig.cache
+C:\Users\iagol\source\repos\csharp-estudos\projBancoSql\BancoProj\obj\Debug\net6.0\ref\BancoProj.dll

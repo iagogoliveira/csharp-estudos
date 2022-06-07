@@ -17,7 +17,6 @@ namespace _07_ByteBank
 
             Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
             Console.ReadLine();
-
         }
     }
 }

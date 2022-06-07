@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5zvDSrNLVn+ubQU2xQMIYqjP19iwa7SXABdIweigcNrzbIzGYAwFA7BgA3p8VeACMTNjLIA53Zz7UgI+BGlS9w==",
+  "dgSpecHash": "aE3V9YZGo/gl57jkBD/5fthvJwg9iQ26v7i2iWyzocH+JSlZHAexOUeSDlNKBUOdjhUMpNunCh249QTGoECyZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iagol\\source\\repos\\ByteBank\\ByteBank\\ByteBank.csproj",
+  "projectFilePath": "C:\\Users\\iagol\\source\\repos\\csharp-estudos\\ByteBank\\ByteBank\\ByteBank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

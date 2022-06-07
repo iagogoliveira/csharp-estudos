@@ -4,21 +4,48 @@
     {
         static void Main(string[] args)
         {
-            Funcionario andre = new Funcionario();
+            bool estado = true;
 
-            andre.Nome = "André";
-            andre.Idade = 32;
-            andre.Cargo = "Designer";
-            andre.Salario = 2500;
+            while (estado)
+            {
+                string nome = "";
+                string idade = "";
+                string cargo = "";
+                double salario = 0;
+                int escolha;
 
-            Console.WriteLine("Insira o nome do funcionário: ");
-            andre.Nome = Console.ReadLine();
+                Console.WriteLine("Seja bem vindo ao banco!");
+                Console.WriteLine("Qual operação será efetuada? ");
+                Console.WriteLine("1 - Cadastro 0 - Sair");
+                escolha = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(andre.Idade);
-            Console.WriteLine(andre.Cargo);
-            Console.WriteLine(andre.Salario);
+                if(escolha == 0)
+                {
+                    estado = false;
+                }
+                else
+                {
+                    Console.WriteLine("Insira o nome do funcionário: ");
+                    nome = Console.ReadLine();
 
-            Console.ReadLine();
+                    Console.WriteLine("Insira a idade do funcionário: ");
+                    idade = Console.ReadLine();
+
+
+                    Console.WriteLine("Insira o cargo do funcionário: ");
+                    cargo = Console.ReadLine();
+
+
+                    Console.WriteLine("Insira o salario do funcionário: ");
+                    salario = Double.Parse(Console.ReadLine());
+
+
+                    Cadastro novoFuncionario = new Cadastro(nome, idade, cargo, salario);
+
+                    Console.WriteLine(novoFuncionario.mensagem);
+                    Console.ReadLine();
+                }
+            }
         }
     }
 }

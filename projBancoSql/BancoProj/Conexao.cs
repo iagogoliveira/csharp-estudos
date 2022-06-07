@@ -11,13 +11,10 @@ namespace BancoProj
     {
         SqlConnection con = new SqlConnection();
 
-        //Construtor
         public Conexao()
         {
             con.ConnectionString = @"Data Source=DESKTOP-1JF78CR;Initial Catalog=bancoFuncionario;Integrated Security=True";
         }
-
-        //Metodo Conectar
         public SqlConnection conectar()
         {
             if (con.State == System.Data.ConnectionState.Closed)
@@ -26,8 +23,6 @@ namespace BancoProj
             }
             return con;
         }
-
-        //Desconectar
         public void desconectar()
         {
             if (con.State == System.Data.ConnectionState.Open)

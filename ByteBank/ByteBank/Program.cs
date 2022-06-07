@@ -15,6 +15,7 @@ namespace ByteBank
             carlos.CPF = "542.423.543-20";
             carlos.Salario = 2000;
 
+            Funcionario pedro = new Diretor();
 
             gerenciador.Registrar(carlos);
 
@@ -22,6 +23,12 @@ namespace ByteBank
             roberta.Nome = "Roberta";
             roberta.CPF = "472.523.752-3";
             roberta.Salario = 5000;
+
+            Funcionario robertaTeste = roberta;
+
+            Console.WriteLine("Bonificação de uma referencia de diretor: " + roberta.GetBonificacao());
+            Console.WriteLine("Bonificação de uma referencia de funcionario: " + robertaTeste.GetBonificacao());
+
 
             gerenciador.Registrar(roberta);
 

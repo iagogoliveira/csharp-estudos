@@ -22,7 +22,6 @@ namespace BancoProj
             cmd.Parameters.AddWithValue("@idade", idade);
             cmd.Parameters.AddWithValue("@cargo", cargo);
             cmd.Parameters.AddWithValue("@salario", salario);
-
             //conectar com banco
             try
             {

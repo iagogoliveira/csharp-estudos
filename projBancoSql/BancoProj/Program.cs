@@ -14,11 +14,14 @@ namespace BancoProj
                 string idade = "";
                 string cargo = "";
                 double salario = 0;
+                string mod = "";
+                string nomeMod = "";
+                string campoMod;
                 int escolha;
 
                 Console.WriteLine("Seja bem vindo ao banco!");
                 Console.WriteLine("Qual operação será efetuada? ");
-                Console.WriteLine("1 - Cadastro 2 - Deletar 3 - Consultar tabela 0 - Sair");
+                Console.WriteLine("1 - Cadastro 2 - Deletar 3 - Consultar tabela 4 - Modificar Salario 5 - Modificar Cargo 0 - Sair");
                 escolha = int.Parse(Console.ReadLine());
 
                 switch (escolha)
@@ -60,6 +63,26 @@ namespace BancoProj
                     case 3:
                         VisualizarTabela tabela = new VisualizarTabela();
                         Console.WriteLine(tabela.mensagem);
+                        Console.ReadLine();
+                        Console.Clear();
+                        break;
+                    case 4:
+                        Console.WriteLine("Insira o nome do funcionário que será modificado: ");
+                        nomeMod = Console.ReadLine();
+                        Console.WriteLine("Insira a modificação: ");
+                        mod = Console.ReadLine();
+                        ModificarSalario modificar = new ModificarSalario(nomeMod, mod);
+                        Console.WriteLine(modificar.mensagem);
+                        Console.ReadLine();
+                        Console.Clear();
+                        break;
+                    case 5:
+                        Console.WriteLine("Insira o nome do funcionário que será promovido/rebaixado: ");
+                        nomeMod = Console.ReadLine();
+                        Console.WriteLine("Insira a modificação: ");
+                        mod = Console.ReadLine();
+                        ModificarCargo modificarCargo = new ModificarCargo(nomeMod, mod);
+                        Console.WriteLine(modificarCargo.mensagem);
                         Console.ReadLine();
                         Console.Clear();
                         break;
